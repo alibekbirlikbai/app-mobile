@@ -13,7 +13,7 @@ https://docs.google.com/document/d/1mDAUnLhdnyjgfUwtKvWaL8IbTUxqKGam/edit?usp=sh
 
 This is a news application that using the API from [newsapi.org](https://newsapi.org/)
 
-## Demo
+## Demo:
 ### Authentication <br/>
 ![_1](https://user-images.githubusercontent.com/87764579/180830437-fd1d810b-611e-4878-807e-33d8896eda75.png)
 ![_2](https://user-images.githubusercontent.com/87764579/180830412-732bda6a-639e-40a5-9ef2-45152c5b2925.png)
