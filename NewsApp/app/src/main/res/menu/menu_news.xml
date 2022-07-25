@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+<!--    <item android:id="@+id/favorite_news_detail"-->
+<!--        app:actionViewClass="android.widget.Switch"-->
+<!--        app:showAsAction="always"-->
+<!--        android:textOn=""-->
+<!--        android:textOff=""-->
+<!--        android:background="@drawable/toggle_selector"-->
+<!--        android:onClick="onCustomToggleClick"-->
+<!--        android:title="Favorite" />-->
+
+<!--        android:icon="@drawable/favorite_foreground"-->
+<!--    <item android:title="Favorite"-->
+<!--        android:icon="@drawable/toggle_selector"-->
+<!--        app:showAsAction="always"/>-->
+
+    <item android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/view_web"
+        android:title="Open with browser"
+        app:showAsAction="never" />
+
+
+</menu>

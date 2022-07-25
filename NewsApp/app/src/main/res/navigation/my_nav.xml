@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="kz.iitu.itse1903.birlikbai.newsapp.App.activities.MainActivity"
+        android:label="fragment_home"
+        tools:layout="@layout/activity_main" />
+    <fragment
+        android:id="@+id/generalFragment"
+        android:name="kz.iitu.itse1903.birlikbai.newsapp.App.activities.GeneralNews"
+        android:label="fragment_categories"
+        tools:layout="@layout/activity_general_news" />
+    <fragment
+        android:id="@+id/favoritesFragment"
+        android:name="kz.iitu.itse1903.birlikbai.newsapp.App.activities.Favorites"
+        android:label="fragment_favorites"
+        tools:layout="@layout/activity_favorites" />
+</navigation>
