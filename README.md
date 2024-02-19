@@ -1,17 +1,13 @@
-# NewsApp (Not Done Yet)
+## (intro)
 
-This project was Partly based on - https://github.com/haerulmuttaqin/PopularNews
+Project based on - https://github.com/haerulmuttaqin/PopularNews 
 
-### *Link to MockUp
-https://marvelapp.com/prototype/d8afef1/screen/85172871
+(my) Mock-up - https://marvelapp.com/prototype/d8afef1/screen/85172871 <br>
+(my) TT(Техническое Задание) - https://docs.google.com/document/d/1mDAUnLhdnyjgfUwtKvWaL8IbTUxqKGam/edit?usp=sharing&ouid=114789254952677862511&rtpof=true&sd=true
 
-### *Link to TT(Техническое Задание)
-https://docs.google.com/document/d/1mDAUnLhdnyjgfUwtKvWaL8IbTUxqKGam/edit?usp=sharing&ouid=114789254952677862511&rtpof=true&sd=true
+## Project description
 
-
-## //Project description//
-
-This is a news application that using the API from [newsapi.org](https://newsapi.org/)
+This Application using the API from [newsapi.org](https://newsapi.org/)
 
 ## Demo:
 ### Authentication <br/>
